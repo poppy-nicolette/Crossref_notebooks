@@ -19,6 +19,7 @@ def get_openalex_data(doi: str) -> dict:
     Return: A dictionary of values.
 
     Note: oa_abstract is reconstructed from the function reconstruct_abstract(). You will need to install
+    https://github.com/poppy-nicolette/Bibliometric_tools/tree/7bcb724c95d9f6a571322076a730736097cf5886/reconstruct_abstract
 
     Example usage
         doi = "10.1234/example"
