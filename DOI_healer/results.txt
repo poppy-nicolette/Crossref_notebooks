@@ -1,0 +1,6 @@
+H: email=pnriddle@dal.ca;fromPrefix=10.5555
+10.1093/reseval/rvw007	https://academic.oup.com/rev/article-pdf/25/4/396/8031155/rvw007.pdf
+10.1371/journal.pone.0127502	https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0127502&type=printable
+10.1007/s11192-015-1765-5	https://arxiv.org/pdf/1511.08096
+10.1371/journal.pone.0184601	https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0184601&type=printable
+10.1162/qss_a_00047	https://direct.mit.edu/qss/article-pdf/1/2/771/1885906/qss_a_00047.pdf
